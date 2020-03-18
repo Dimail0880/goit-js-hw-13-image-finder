@@ -1,2 +1,2 @@
 import './styles.css';
-console.log("object")
+import "./js/app.js"
